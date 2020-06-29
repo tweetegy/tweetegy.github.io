@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+  {% include head.html %}
+  {% include google_analytics.html %}
+
+  <body>
+
+    <div class="container content">
+      <div class="masthead">
+        <h3 class="masthead-title">
+          <a href="{{ site.root }}" title="Home">{{ site.title }}</a>
+          <small>{{ site.tagline }}</small>
+        </h3>
+
+        |{% for page in site.pages_list %}
+          <a href="{{ page[1]  }}">{{ page[0] }}</a> |
+        {% endfor %}
+
+        {% include search-form.html %}
+      </div>
+
+      {{ content }}
+
+      {% include comments.html %}
+
+      <div class="footer">
+        <p>
+          &copy; {{ site.time | date: '%Y' }} Tweetegy. All rights reserved.
+        </p>
+      </div>
+    </div>
+
+  </body>
+</html>

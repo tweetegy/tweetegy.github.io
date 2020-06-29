@@ -1,0 +1,35 @@
+# Dependencies
+markdown:         kramdown
+pygments:         true
+production:       false
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Tweetegy
+tagline:          On the edge of chaos with Blockchain, Node JS, React JS and Vue JS
+url:              http://tweetegy.com
+baseurl:          /
+root:             /
+paginate:         1
+author:
+  name:           Darren Jensen
+  url:            https://twitter.com/jensendarren
+  email:          darren.jensen@gmail.com
+
+pages_list:
+  About: '/about'
+  Search: '/search'
+  Archive: '/archive'
+  Github: 'https://github.com/jensendarren'
+  RSS: '/atom.xml'
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/tweetegy
+
+plugins:
+  - jekyll-lunr-js-search
+  - jekyll-paginate
