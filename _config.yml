@@ -8,14 +8,14 @@ permalink:        pretty
 
 # Setup
 title:            Tweetegy
-tagline:          On the edge of chaos with Blockchain, Node JS, React JS and Vue JS
+tagline:          On the edge of chaos with Blockchain, Dapps, DeFi, JavaScript
 url:              http://tweetegy.com
 baseurl:          /
 root:             /
 paginate:         1
 author:
   name:           Darren Jensen
-  url:            https://twitter.com/jensendarren
+  url:            https://devbootstrap.com
   email:          darren.jensen@gmail.com
 
 pages_list:

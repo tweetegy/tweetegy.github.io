@@ -6,10 +6,10 @@ title: About
 ![Darren Jensen](/assets/darren-jensen.jpg)
 
 <p class="message">
-I am a <b>Blockchain Architect & Full Stack Developer</b>. I love building modern Dapps for Decentralized Finance systems used in payments and trading. I've recently designed and architected a payments solution and eKYC system being deployed in South East Asia.
+I am a <b>Full Stack Blockchain Developer</b>. I love building modern Dapps for cutting edge Decentralized Finance (DeFi) systems used in payments, lending, money markets and trading. I've recently designed and architected a payments solution and eKYC system being deployed in South East Asia.
 <br />
 <br />
-<b>As a Blockchain Architect, I can:</b>
+<b>As a Full Stack Blockchain Developer, I can:</b>
 </p>
 
 <p>
@@ -41,7 +41,7 @@ I am currently running the following two projects.
 
 ### [DevBootstrap](http://www.devbootstrap.com)
 
-DevBootstrap is a set of online technology training courses designed to get developers up and running with clear, concise and detailed tutorials. I teach Blockchain Architecture, JavaScript, Node JS, Vue JS, React JS, Design Patterns, Test Driven Development, Smart Contract Development, Databases, and Data Structures.
+DevBootstrap is a set of online technology training courses designed to get full stack blockchain developers up and running with clear, concise and detailed tutorials. I teach Blockchain Architecture, DeFi Systems, JavaScript, Node JS, Vue JS, React JS, Design Patterns, Test Driven Development, Smart Contract Development, Databases, and Data Structures.
 
 ### [DevZep](http://www.devzep.com)
 
